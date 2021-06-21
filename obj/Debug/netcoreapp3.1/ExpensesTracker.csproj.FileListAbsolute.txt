@@ -1,0 +1,13 @@
+D:\Csharp\ExpenseTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.exe
+D:\Csharp\ExpenseTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.deps.json
+D:\Csharp\ExpenseTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.runtimeconfig.json
+D:\Csharp\ExpenseTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.runtimeconfig.dev.json
+D:\Csharp\ExpenseTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.dll
+D:\Csharp\ExpenseTracker\ExpensesTracker\bin\Debug\netcoreapp3.1\ExpensesTracker.pdb
+D:\Csharp\ExpenseTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.csprojAssemblyReference.cache
+D:\Csharp\ExpenseTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.AssemblyInfoInputs.cache
+D:\Csharp\ExpenseTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.AssemblyInfo.cs
+D:\Csharp\ExpenseTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.csproj.CoreCompileInputs.cache
+D:\Csharp\ExpenseTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.dll
+D:\Csharp\ExpenseTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.pdb
+D:\Csharp\ExpenseTracker\ExpensesTracker\obj\Debug\netcoreapp3.1\ExpensesTracker.genruntimeconfig.cache
